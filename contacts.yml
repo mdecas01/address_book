@@ -1,0 +1,16 @@
+---
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: home
+    number: 1234-567-89
+  addresses:
+  - !ruby/object:Address
+    kind: home
+    city: london
+    postal_code: se16
+    street_1: lucey way
+    street_2: ''
+  first_name: kate
+  middle_name: jieun
+  last_name: lee
